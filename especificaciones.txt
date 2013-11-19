@@ -1,9 +1,0 @@
-Ejercicio 7
-// Servidor: se ejecuta indicando el numero de jugadores (numero de clientes)
-// Cuando se conecte 1 cliente le reparte 5 cartas (A 2 3 ... J Q K) aleatoriamente y toma nombre del jugador
-// Cuando se han conectado todos los clientes se mira quien es el ganador: Mayor numero de cartas iguales o carta mas alta en caso de empate
-// Se comunica a cada cliente si ha ganado o perdido
-
-// Clientes: Se ejecuta indicando el nombre del jugador
-// Se envia el nombre al servidor y este le envia su jugada de cartas
-// Se queda esperando hasta que el servidor responde quien ha ganado
